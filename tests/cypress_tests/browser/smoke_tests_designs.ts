@@ -1,2 +1,2 @@
-// Obvioulsy this would normally contain code
-// But what I want you to undertsnad is git, not javascrpit
+// Obviously this would normally contain code
+// But what I want you to understand is git, not javascript
